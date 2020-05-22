@@ -1,0 +1,16 @@
+{
+"companyName": "8059 Blank",
+"productName": "VRC Change Up (Build 0d)",
+"productVersion": "0d",
+"dataUrl": "VRC Change Up (Build 0d) - WebGL.data.unityweb",
+"wasmCodeUrl": "VRC Change Up (Build 0d) - WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "VRC Change Up (Build 0d) - WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.14f1"
+}
